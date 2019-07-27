@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 M2_ObjectDetection/zip/
+M2_ObjectDetection/code/ssd300_mAP_77.43_v2.pth
 
 # C extensions
 *.so
