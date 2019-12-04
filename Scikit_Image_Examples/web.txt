@@ -1,0 +1,2 @@
+https://scikit-image.org/docs/stable/install.html
+https://scikit-image.org/docs/stable/auto_examples/index.html
